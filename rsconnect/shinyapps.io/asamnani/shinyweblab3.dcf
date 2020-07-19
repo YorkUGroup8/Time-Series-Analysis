@@ -1,0 +1,12 @@
+name: shinyweblab3
+title: shinyweblab3
+username:
+account: asamnani
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2580406
+bundleId: 3407490
+url: https://asamnani.shinyapps.io/shinyweblab3/
+when: 1595105964.52871
+asMultiple: FALSE
+asStatic: FALSE
